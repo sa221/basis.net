@@ -1,0 +1,1 @@
+E:\git\Basis.NET\BankApp\BankApp\bin\Debug\BankApp.exe.config

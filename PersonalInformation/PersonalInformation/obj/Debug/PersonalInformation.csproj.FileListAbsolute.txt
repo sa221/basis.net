@@ -1,0 +1,9 @@
+E:\git\Basis.NET\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe.config
+E:\git\Basis.NET\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe
+E:\git\Basis.NET\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.pdb
+E:\git\Basis.NET\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csprojResolveAssemblyReference.cache
+E:\git\Basis.NET\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.Form1.resources
+E:\git\Basis.NET\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.Properties.Resources.resources
+E:\git\Basis.NET\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csproj.GenerateResource.Cache
+E:\git\Basis.NET\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.exe
+E:\git\Basis.NET\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.pdb

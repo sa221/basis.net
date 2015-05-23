@@ -1,0 +1,6 @@
+E:\git\Basis.NET\test1\test1\bin\Debug\test1.exe.config
+E:\git\Basis.NET\test1\test1\bin\Debug\test1.exe
+E:\git\Basis.NET\test1\test1\bin\Debug\test1.pdb
+E:\git\Basis.NET\test1\test1\obj\Debug\test1.csprojResolveAssemblyReference.cache
+E:\git\Basis.NET\test1\test1\obj\Debug\test1.exe
+E:\git\Basis.NET\test1\test1\obj\Debug\test1.pdb

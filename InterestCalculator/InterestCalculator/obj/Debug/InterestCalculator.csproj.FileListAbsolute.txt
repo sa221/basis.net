@@ -1,0 +1,9 @@
+E:\git\Basis.NET\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe.config
+E:\git\Basis.NET\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe
+E:\git\Basis.NET\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.pdb
+E:\git\Basis.NET\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.csprojResolveAssemblyReference.cache
+E:\git\Basis.NET\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.Form1.resources
+E:\git\Basis.NET\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.Properties.Resources.resources
+E:\git\Basis.NET\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.csproj.GenerateResource.Cache
+E:\git\Basis.NET\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.exe
+E:\git\Basis.NET\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.pdb

@@ -1,0 +1,9 @@
+E:\git\Basis.NET\Day#9[commonSession]\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe.config
+E:\git\Basis.NET\Day#9[commonSession]\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+E:\git\Basis.NET\Day#9[commonSession]\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.StudentEntry.resources
+E:\git\Basis.NET\Day#9[commonSession]\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.Properties.Resources.resources
+E:\git\Basis.NET\Day#9[commonSession]\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csproj.GenerateResource.Cache
+E:\git\Basis.NET\Day#9[commonSession]\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe
+E:\git\Basis.NET\Day#9[commonSession]\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.pdb
+E:\git\Basis.NET\Day#9[commonSession]\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.exe
+E:\git\Basis.NET\Day#9[commonSession]\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb

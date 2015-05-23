@@ -1,0 +1,9 @@
+E:\git\Basis.NET\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\git\Basis.NET\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\git\Basis.NET\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\git\Basis.NET\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PersonApp.csprojResolveAssemblyReference.cache
+E:\git\Basis.NET\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.PersonUI.resources
+E:\git\Basis.NET\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\git\Basis.NET\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\PersonApp.csproj.GenerateResource.Cache
+E:\git\Basis.NET\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\git\Basis.NET\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

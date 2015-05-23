@@ -1,0 +1,9 @@
+E:\git\Basis.NET\WindowsFormsIntroApp\WindowsFormsIntroApp\bin\Debug\WindowsFormsIntroApp.exe.config
+E:\git\Basis.NET\WindowsFormsIntroApp\WindowsFormsIntroApp\obj\Debug\WindowsFormsIntroApp.csprojResolveAssemblyReference.cache
+E:\git\Basis.NET\WindowsFormsIntroApp\WindowsFormsIntroApp\obj\Debug\WindowsFormsIntroApp.ShowCodeUI.resources
+E:\git\Basis.NET\WindowsFormsIntroApp\WindowsFormsIntroApp\obj\Debug\WindowsFormsIntroApp.Properties.Resources.resources
+E:\git\Basis.NET\WindowsFormsIntroApp\WindowsFormsIntroApp\obj\Debug\WindowsFormsIntroApp.csproj.GenerateResource.Cache
+E:\git\Basis.NET\WindowsFormsIntroApp\WindowsFormsIntroApp\bin\Debug\WindowsFormsIntroApp.exe
+E:\git\Basis.NET\WindowsFormsIntroApp\WindowsFormsIntroApp\bin\Debug\WindowsFormsIntroApp.pdb
+E:\git\Basis.NET\WindowsFormsIntroApp\WindowsFormsIntroApp\obj\Debug\WindowsFormsIntroApp.exe
+E:\git\Basis.NET\WindowsFormsIntroApp\WindowsFormsIntroApp\obj\Debug\WindowsFormsIntroApp.pdb
